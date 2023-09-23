@@ -1,7 +1,7 @@
 ![MasterHead](https://www.noritechnology.com/front/img/nori/gif/web-development-Banners.gif)
 <h1 align="center">Hi 👋, I'm Ali Hamza</h1>
 <h3 align="center">A passionate Full-Stack Web developer.</h3>
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp">
+<img align="right" alt="coding" width="350" src="[https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp](https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alihamza1221&label=Profile%20views&color=0e75b6&style=flat" alt="alihamza1221" /> </p>
 
 - 🌱 I’m currently learning **MySql , API Integration**
