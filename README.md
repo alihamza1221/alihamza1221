@@ -23,7 +23,7 @@
 [![Ali Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihamza1221&show_icons=true&theme=transparent)](https://github.com/alihamza1221) <br>
 ![Featured star list languages](./metrics.plugin.starlists.languages.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alihamza1221&layout=compact)](https://github.com/alihamza1221)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alihamza1221&" alt="alihamza1221" /></p>name: Featured star list languages
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alihamza1221&" alt="alihamza1221" />
 
 
 
