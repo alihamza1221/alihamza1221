@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="250" src="https://i.gifer.com/Oxr0.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alihamza1221&label=Profile%20views&color=0e75b6&style=flat" alt="alihamza1221" /> </p>
 
-- 🌱 I’m currently learning **MySql , API Integration**
+- 🌱 I’m currently learning **React , API Integration**
 
 - 💬 Ask me about **Web Development**
 
