@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/twistxali" target="blank"><img src="https://img.shields.io/twitter/follow/twistxali?logo=twitter&style=for-the-badge" alt="twistxali" /></a> </p>
 
-- 🌱 I’m currently learning **MySql , API Integration**
+- 🌱 I’m currently learning **React , API Integration**
 
 - 💬 Ask me about **Web Development**
 
