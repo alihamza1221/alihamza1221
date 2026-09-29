@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a undergrad student specializing in Software Engineering at Comsats University in Lahore, Pakistan My academic focus is on understanding and improving the ways in which modern Technology can be adopted to operate and interact for common good.<br><br>In parallel to my studies, I work as a Full Stack Software Developer at Truesofts Here, I engage with a variety of technologies and projects, contributing to both the client and server sides to create cohesive and efficient software solutions.<br><br>This GitHub profile serves as a portfolio of my work and interests. It includes projects related to my bachelorstudies, professional work, and personal experiments in software development. I'm always open to collaboration and eager to contribute to new and exciting projects.</p>
+ I work as a Full Stack Software Developer at Truesofts Here, I engage with a variety of technologies and projects, contributing to both the client and server sides to create cohesive and efficient software solutions.<br><br>This GitHub profile serves as a portfolio of my work and interests. It includes projects related to my bachelorstudies, professional work, and personal experiments in software development. I'm always open to collaboration and eager to contribute to new and exciting projects.</p>
 
 ###
 
